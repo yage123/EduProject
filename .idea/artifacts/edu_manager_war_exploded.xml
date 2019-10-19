@@ -25,6 +25,13 @@
           <element id="archive" name="edu-service-1.0-SNAPSHOT.jar">
             <element id="module-output" name="edu-service" />
           </element>
+          <element id="archive" name="edu-dao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="edu-dao" />
+          </element>
+          <element id="archive" name="edu-model-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="edu-model" />
+          </element>
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.1" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.35" />
           <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
           <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
