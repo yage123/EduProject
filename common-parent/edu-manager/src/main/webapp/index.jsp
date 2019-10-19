@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-那你妈死了
+恭喜你
 </body>
 </html>
