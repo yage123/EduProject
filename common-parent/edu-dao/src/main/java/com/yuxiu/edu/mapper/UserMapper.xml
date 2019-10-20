@@ -3,7 +3,7 @@
 <mapper namespace="com.yuxiu.edu.mapper.UserMapper" >
 
 
-    <select id="findById" resultType="user" parameterType="int">
+    <select id="findById" resultType="com.yuxiu.edu.mdoel.User" parameterType="int">
         SELECT * FROM t_user WHERE id = #{id}
     </select>
 </mapper>
